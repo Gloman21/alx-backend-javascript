@@ -1,4 +1,5 @@
 #!/usr/bin/node
+/* eslint-disable no-unused-expressions */
 const { expect } = require('chai');
 const { it, describe } = require('mocha');
 const sinon = require('sinon');
